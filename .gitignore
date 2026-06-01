@@ -1,0 +1,18 @@
+# Arch Linux build artifacts
+*.pkg.tar.*
+*.src.tar.*
+*.log
+src/
+pkg/
+prismlauncher-cracked/
+
+# Editor & IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Cache & temporary files
+ccache/
+.ccache/
